@@ -5,6 +5,7 @@
   <artifactId>mybean</artifactId>
   <packaging>jar</packaging>
   <version>1.0</version>
+  <url>https://github.com/milhcbt/mybean</url>
   <dependencies>
     <dependency>
         <groupId>org.junit.jupiter</groupId>
