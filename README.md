@@ -1,0 +1,2 @@
+# mybean
+very simple bean
